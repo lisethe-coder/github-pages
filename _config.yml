@@ -1,2 +1,3 @@
 name: Lis Sanmartin, Fullstack Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
