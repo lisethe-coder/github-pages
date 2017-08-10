@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lisethe Sanmartin, Fullstack Develope, Launches Site"
+title: "Lisethe Sanmartin, Fullstack Developer, Launches Site"
 date: 2017-08-10
 ---
 
